@@ -1,0 +1,8 @@
+.venv/
+.chatgpt-image-mcp/
+.playwright-cli/
+.playwright-mcp/
+output/
+__pycache__/
+*.pyc
+chatgpt-image.txt

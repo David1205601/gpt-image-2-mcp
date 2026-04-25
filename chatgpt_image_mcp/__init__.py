@@ -1,0 +1,2 @@
+"""ChatGPT image MCP package."""
+

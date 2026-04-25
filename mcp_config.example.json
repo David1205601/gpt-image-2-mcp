@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "ChatGPT Images 2.0": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "C:\\Users\\ramly\\Desktop\\gpt image 2",
+        "python",
+        "chatgpt_image.py",
+        "serve-mcp",
+        "--transport",
+        "stdio",
+        "--daemon-host",
+        "127.0.0.1",
+        "--daemon-port",
+        "8765"
+      ]
+    }
+  }
+}
